@@ -12,7 +12,6 @@ How it works:
 - Save data in a CSV file.
 - Enrich data by filling in missing frames.
 - Visualize results by selecting the most confident plate number for each vehicle.
-  plate-recognition
 
 ## Project Structure
 
