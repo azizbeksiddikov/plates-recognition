@@ -1,0 +1,26 @@
+yolo11nt.pt
+.DS_Store
+
+# Ignore model files
+*.pt
+*.weights
+src/model/weights/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore specific files
+src/test.ipynb
+src/util.py
+src/lpr_image.py
+src/model/
+src/sort/
+other/
+.vscode/
+data/*csv
+data/
+
